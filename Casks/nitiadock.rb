@@ -1,6 +1,6 @@
 cask "nitiadock" do
-  version "1.0.0"
-  sha256 "05babe2802e127248ba197eafe18346c4db109edec82d05ecd92c7e6873b2798"
+  version "1.0.1"
+  sha256 "09593941e38cb41b1417ba52126aed91bed54d150a172c597e490dd1acaf1e2f"
 
   url "https://github.com/Tripchipp/nitiadock/releases/download/v#{version}/NitiaDock-#{version}.dmg"
   name "NitiaDock"
